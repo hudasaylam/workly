@@ -26,5 +26,19 @@ Clean, responsive UI to browse jobs, see client recommendations, and more.
 
 ---
 
-## 🧱 Project Structure (high-level)
+---
 
+## 🛠 Tech Stack
+
+- **Flutter** & **Dart**
+- **Material Design**
+- Custom responsive utilities (`responsive.dart`)
+- Reusable widgets (cards, lists, sidebar/drawer)
+
+---
+
+## ⚙️ Setup
+
+1) Check Flutter:
+```bash
+flutter --version
